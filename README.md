@@ -1,9 +1,9 @@
 # openfeeder
 Open source feeder for animal experiments
 
-Please read a paper `Jinook Oh, Riccardo Hofer and W. Tecumseh Fitch (in prep) Open source automatic feeder for animal experiments' before building this feeder.
+Before building this feeder, please read a paper `Jinook Oh, Riccardo Hofer and W. Tecumseh Fitch (in prep) Open source automatic feeder for animal experiments'.
 
-Contact info : 
-jinook.oh@univie.ac.at
-riccardo.hofer@univie.ac.at
-tecumseh.fitch@univie.ac.at
+Contact info :  
+jinook.oh@univie.ac.at  
+riccardo.hofer@univie.ac.at  
+tecumseh.fitch@univie.ac.at  
