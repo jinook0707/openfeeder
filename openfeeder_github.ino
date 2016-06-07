@@ -46,16 +46,14 @@ void feed() {
         break;
       }
     }
-    delay(1000);
+    delay(500);
   }
   if (num_feed > 0) { // disk is probably stuck
-    // move disk back and forth 3 times
-    for (int i=0; i<3; i++) {
-      bool ret = run_motor(-50,240,720,true); // rotate disk backward
-      delay(100);
-      ret = run_motor(100,240,720,true); // rotate disk forward further than backward distance
-      delay(100);
-    }
+    // move disk back and forth
+    bool ret = run_motor(-50,240,720,true); // rotate disk backward
+    delay(100);
+    ret = run_motor(100,240,720,true); // rotate disk forward further than backward distance
+    delay(100);
   }
 }
 
