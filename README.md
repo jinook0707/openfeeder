@@ -15,3 +15,11 @@ After building the feeder and uploading Arduino code, you can test the feeder in
    then type 'feed' in the upper text box of the new window.<br>
 2) Download 'test.py' file and run it with Python ('pyserial', https://pypi.python.org/pypi/pyserial, is required),<br>
    then click 'Feed' button.
+
+---
+
+Copyright CogBio Department in University of Vienna 2016.
+In this repository, the software is licesed under the GNU GPL Version 3 and 
+the hardware is licensed under the CERN OHL v. 1.2 (http://ohwr.org/cernohl).
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Please see LICENSE and LICENSE_HARDWARE.pdf for detailed information.

@@ -13,8 +13,8 @@
    x="0in"
    y="0in"
    width="156mm"
-   height="79mm"
-   viewBox="0 0 442.2043 223.93654"
+   height="85mm"
+   viewBox="0 0 442.2043 240.94438"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="wiring_schem.svg">
@@ -41,16 +41,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1292"
-     inkscape:window-height="841"
+     inkscape:window-width="1280"
+     inkscape:window-height="756"
      id="namedview716"
      showgrid="false"
      units="mm"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.1473487"
-     inkscape:cx="262.11869"
-     inkscape:cy="156.27072"
+     inkscape:cx="287.29206"
+     inkscape:cy="86.544751"
      inkscape:window-x="64"
      inkscape:window-y="146"
      inkscape:window-maximized="0"
@@ -61,21 +61,21 @@
      class="interior rect"
      width="117.5725"
      height="166.98753"
-     y="29.644148"
+     y="27.452068"
      x="84.065422" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="50.6292"
-     y1="50.6292"
+     y2="48.437115"
+     y1="48.437115"
      id="connector61pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text12"
      class="text"
-     y="51.682266"
+     y="49.490044"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">D0/RX</text>
@@ -87,20 +87,20 @@
      y="28.4499"
      id="connector61terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="61.427479"
-     y1="61.427479"
+     y2="59.235394"
+     y1="59.235394"
      id="connector62pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text16"
      class="text"
-     y="62.481228"
+     y="60.289005"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">D1/TX</text>
@@ -112,20 +112,20 @@
      y="35.6499"
      id="connector62terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="72.225609"
-     y1="72.225609"
+     y2="70.033531"
+     y1="70.033531"
      id="connector63pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text20"
      class="text"
-     y="73.280067"
+     y="71.087852"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">D2</text>
@@ -137,20 +137,20 @@
      y="42.8499"
      id="connector63terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="83.023781"
-     y1="83.023781"
+     y2="80.831703"
+     y1="80.831703"
      id="connector64pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text24"
      class="text"
-     y="84.078911"
+     y="81.886696"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">D3 PWM</text>
@@ -162,20 +162,20 @@
      y="50.0499"
      id="connector64terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="93.821938"
-     y1="93.821938"
+     y2="91.629852"
+     y1="91.629852"
      id="connector65pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0"
      id="text28"
      class="text"
-     y="96.705986"
+     y="94.513756"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">
@@ -191,14 +191,14 @@
      y="57.2499"
      id="connector65terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="104.62008"
-     y1="104.62008"
+     y2="102.42801"
+     y1="102.42801"
      id="connector66pin" />
   <g
      style="fill:none;stroke:none;stroke-width:0"
@@ -208,14 +208,14 @@
      y="64.4499"
      id="connector66terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="115.41824"
-     y1="115.41824"
+     y2="113.22616"
+     y1="113.22616"
      id="connector67pin" />
   <g
      style="fill:none;stroke:none;stroke-width:0"
@@ -225,20 +225,20 @@
      y="71.6499"
      id="connector67terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="126.21635"
-     y1="126.21635"
+     y2="124.02424"
+     y1="124.02424"
      id="connector68pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text40"
      class="text"
-     y="127.2743"
+     y="125.08208"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">D7</text>
@@ -250,20 +250,20 @@
      y="78.8499"
      id="connector68terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="137.01451"
-     y1="137.01451"
+     y2="134.8224"
+     y1="134.8224"
      id="connector51pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text44"
      class="text"
-     y="138.07314"
+     y="135.88092"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">D8</text>
@@ -275,20 +275,20 @@
      y="86.0499"
      id="connector51terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="147.81264"
-     y1="147.81264"
+     y2="145.62053"
+     y1="145.62053"
      id="connector52pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text48"
      class="text"
-     y="148.87199"
+     y="146.67978"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">D9 PWM</text>
@@ -300,20 +300,20 @@
      y="93.2499"
      id="connector52terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="158.61079"
-     y1="158.61079"
+     y2="156.41869"
+     y1="156.41869"
      id="connector53pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text52"
      class="text"
-     y="159.67097"
+     y="157.47876"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">D10 PWM/SS</text>
@@ -325,20 +325,20 @@
      y="100.45"
      id="connector53terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="169.40889"
-     y1="169.40889"
+     y2="167.21678"
+     y1="167.21678"
      id="connector54pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text56"
      class="text"
-     y="170.46983"
+     y="168.27762"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">D11 PWM/MOSI</text>
@@ -350,20 +350,20 @@
      y="107.65"
      id="connector54terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="180.20705"
-     y1="180.20705"
+     y2="178.01494"
+     y1="178.01494"
      id="connector55pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text60"
      class="text"
-     y="181.26869"
+     y="179.07648"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">D12/MISO</text>
@@ -375,21 +375,21 @@
      y="114.85"
      id="connector55terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="191.00519"
-     y1="191.00519"
+     y2="188.81308"
+     y1="188.81308"
      id="connector41pin" />
   <rect
      style="fill:none;stroke:none;stroke-width:0"
      class="terminal"
      width="1.0499549"
      height="1.0498178"
-     y="190.48026"
+     y="188.28815"
      id="connector41terminal"
      x="223.32326" />
   <line
@@ -397,14 +397,14 @@
      x2="223.32326"
      x1="201.724"
      class="pin"
-     y2="191.00519"
-     y1="191.00519"
+     y2="188.81308"
+     y1="188.81308"
      id="connector56pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text66"
      class="text"
-     y="192.06755"
+     y="189.87534"
      x="199.61111"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">D13/SCK</text>
@@ -416,21 +416,21 @@
      y="122.05"
      id="connector56terminal"
      x="107.65"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="50.6292"
-     y1="50.6292"
+     y2="48.437115"
+     y1="48.437115"
      id="connector43pin" />
   <rect
      style="fill:none;stroke:none;stroke-width:0"
      class="terminal"
      width="1.0499549"
      height="1.0498178"
-     y="50.104153"
+     y="47.912067"
      id="connector43terminal"
      x="74.130035" />
   <line
@@ -438,14 +438,14 @@
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="50.6292"
-     y1="50.6292"
+     y2="48.437115"
+     y1="48.437115"
      id="connector85pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text72"
      class="text"
-     y="51.682266"
+     y="49.490044"
      x="86.07341"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">RESET</text>
@@ -457,20 +457,20 @@
      y="28.4499"
      id="connector85terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="61.427479"
-     y1="61.427479"
+     y2="59.235394"
+     y1="59.235394"
      id="connector49pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text76"
      class="text"
-     y="62.481228"
+     y="60.289005"
      x="86.07341"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">RESET2</text>
@@ -479,7 +479,7 @@
      class="terminal"
      width="1.0499549"
      height="1.0498178"
-     y="60.902378"
+     y="58.710293"
      id="connector49terminal"
      x="74.130035" />
   <line
@@ -487,14 +487,14 @@
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="72.225609"
-     y1="72.225609"
+     y2="70.033531"
+     y1="70.033531"
      id="connector58pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text80"
      class="text"
-     y="73.280067"
+     y="71.087852"
      x="86.07341"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">AREF</text>
@@ -506,20 +506,20 @@
      y="42.8499"
      id="connector58terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="83.023781"
-     y1="83.023781"
+     y2="80.831703"
+     y1="80.831703"
      id="connector84pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text84"
      class="text"
-     y="84.078911"
+     y="81.886696"
      x="86.07341"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">ioref</text>
@@ -531,14 +531,14 @@
      y="50.0499"
      id="connector84terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="104.62008"
-     y1="104.62008"
+     y2="102.42801"
+     y1="102.42801"
      id="connector0pin" />
   <g
      style="fill:none;stroke:none;stroke-width:0"
@@ -548,20 +548,20 @@
      y="64.4499"
      id="connector0terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="115.41824"
-     y1="115.41824"
+     y2="113.22616"
+     y1="113.22616"
      id="connector1pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text92"
      class="text"
-     y="116.47544"
+     y="114.28323"
      x="86.07341"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">A1</text>
@@ -573,20 +573,20 @@
      y="71.6499"
      id="connector1terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="126.21635"
-     y1="126.21635"
+     y2="124.02424"
+     y1="124.02424"
      id="connector2pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text96"
      class="text"
-     y="127.2743"
+     y="125.08208"
      x="86.07341"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">A2</text>
@@ -598,20 +598,20 @@
      y="78.8499"
      id="connector2terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="137.01451"
-     y1="137.01451"
+     y2="134.8224"
+     y1="134.8224"
      id="connector3pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text100"
      class="text"
-     y="138.07314"
+     y="135.88092"
      x="86.07341"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">A3</text>
@@ -623,21 +623,21 @@
      y="86.0499"
      id="connector3terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="147.81264"
-     y1="147.81264"
+     y2="145.62053"
+     y1="145.62053"
      id="connector48pin" />
   <rect
      style="fill:none;stroke:none;stroke-width:0"
      class="terminal"
      width="1.0499549"
      height="1.0498178"
-     y="147.28758"
+     y="145.09547"
      id="connector48terminal"
      x="74.130035" />
   <line
@@ -645,15 +645,15 @@
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="147.81264"
-     y1="147.81264"
+     y2="145.62053"
+     y1="145.62053"
      id="connector45pin" />
   <rect
      style="fill:none;stroke:none;stroke-width:0"
      class="terminal"
      width="1.0499549"
      height="1.0498178"
-     y="147.28758"
+     y="145.09547"
      id="connector45terminal"
      x="74.130035" />
   <line
@@ -661,8 +661,8 @@
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="147.81264"
-     y1="147.81264"
+     y2="145.62053"
+     y1="145.62053"
      id="connector4pin" />
   <g
      style="fill:none;stroke:none;stroke-width:0"
@@ -672,21 +672,21 @@
      y="93.2499"
      id="connector4terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="147.81264"
-     y1="147.81264"
+     y2="145.62053"
+     y1="145.62053"
      id="connector39pin" />
   <rect
      style="fill:none;stroke:none;stroke-width:0"
      class="terminal"
      width="1.0499549"
      height="1.0498178"
-     y="147.28758"
+     y="145.09547"
      id="connector39terminal"
      x="74.130035" />
   <line
@@ -694,15 +694,15 @@
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="147.81264"
-     y1="147.81264"
+     y2="145.62053"
+     y1="145.62053"
      id="connector47pin" />
   <rect
      style="fill:none;stroke:none;stroke-width:0"
      class="terminal"
      width="1.0499549"
      height="1.0498178"
-     y="147.28758"
+     y="145.09547"
      id="connector47terminal"
      x="74.130035" />
   <line
@@ -710,15 +710,15 @@
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="147.81264"
-     y1="147.81264"
+     y2="145.62053"
+     y1="145.62053"
      id="connector42pin" />
   <rect
      style="fill:none;stroke:none;stroke-width:0"
      class="terminal"
      width="1.0499549"
      height="1.0498178"
-     y="147.28758"
+     y="145.09547"
      id="connector42terminal"
      x="74.130035" />
   <line
@@ -726,14 +726,14 @@
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="147.81264"
-     y1="147.81264"
+     y2="145.62053"
+     y1="145.62053"
      id="connector59pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text116"
      class="text"
-     y="148.87199"
+     y="146.67978"
      x="86.07341"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">A4/SDA</text>
@@ -745,14 +745,14 @@
      y="93.2499"
      id="connector59terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="158.61079"
-     y1="158.61079"
+     y2="156.41869"
+     y1="156.41869"
      id="connector5pin" />
   <g
      style="fill:none;stroke:none;stroke-width:0"
@@ -762,20 +762,20 @@
      y="100.45"
      id="connector5terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="158.61079"
-     y1="158.61079"
+     y2="156.41869"
+     y1="156.41869"
      id="connector60pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text122"
      class="text"
-     y="159.67097"
+     y="157.47876"
      x="86.07341"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">A5/SCL</text>
@@ -787,20 +787,20 @@
      y="100.45"
      id="connector60terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="83.979088"
      x1="62.379997"
      class="pin"
-     y2="191.80154"
-     y1="191.80154"
+     y2="189.60944"
+     y1="189.60944"
      id="connector91pin" />
   <text
      style="font-size:5.24942398px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
      id="text126"
      class="text"
-     y="192.86397"
+     y="190.67175"
      x="86.07341"
      font-size="3.49999"
      transform="scale(1.0000653,0.99993471)">N/C</text>
@@ -812,7 +812,7 @@
      y="136.45"
      id="connector91terminal"
      x="-0.349999"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <g
      style="fill:none;stroke:none;stroke-width:0"
      class="terminal"
@@ -821,7 +821,7 @@
      y="165.25"
      id="connector88terminal"
      x="57.2499"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <g
      style="fill:none;stroke:none;stroke-width:0"
      class="terminal"
@@ -830,14 +830,14 @@
      y="165.25"
      id="connector57terminal"
      x="57.2499"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="148.25136"
      x1="148.25136"
      class="pin"
-     y2="218.46902"
-     y1="196.87299"
+     y2="216.27692"
+     y1="194.68088"
      id="connector89pin" />
   <g
      style="fill:none;stroke:none;stroke-width:0"
@@ -847,18 +847,18 @@
      y="165.25"
      id="connector89terminal"
      x="57.2499"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="115.85275"
      x1="115.85275"
      class="pin"
-     y2="29.557844"
-     y1="7.9615674"
+     y2="27.365765"
+     y1="5.7694883"
      id="connector86pin" />
   <g
      id="g150"
-     transform="matrix(1.4999377,0,0,1.4997419,116.90256,31.65756)">
+     transform="matrix(1.4999377,0,0,1.4997419,116.90256,29.465482)">
     <g
        id="g152">
       <g
@@ -885,21 +885,21 @@
      y="-0.349999"
      id="connector86terminal"
      x="35.6499"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round"
      x2="137.45183"
      x1="137.45183"
      class="pin"
-     y2="29.557844"
-     y1="7.9615674"
+     y2="27.365765"
+     y1="5.7694883"
      id="connector40pin" />
   <rect
      style="fill:none;stroke:none;stroke-width:0"
      class="terminal"
      width="1.0499549"
      height="1.0498178"
-     y="6.9117627"
+     y="4.7196836"
      id="connector40terminal"
      x="136.9267" />
   <line
@@ -907,15 +907,15 @@
      x2="137.45183"
      x1="137.45183"
      class="pin"
-     y2="29.557844"
-     y1="7.9615674"
+     y2="27.365765"
+     y1="5.7694883"
      id="connector46pin" />
   <rect
      style="fill:none;stroke:none;stroke-width:0"
      class="terminal"
      width="1.0499549"
      height="1.0498178"
-     y="6.9117627"
+     y="4.7196836"
      id="connector46terminal"
      x="136.9267" />
   <line
@@ -923,8 +923,8 @@
      x2="137.45183"
      x1="137.45183"
      class="pin"
-     y2="29.557844"
-     y1="7.9615674"
+     y2="27.365765"
+     y1="5.7694883"
      id="connector87pin" />
   <g
      style="fill:none;stroke:none;stroke-width:0"
@@ -934,18 +934,18 @@
      y="-0.349999"
      id="connector87terminal"
      x="50.0499"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.04988635;stroke-linecap:round"
      x2="159.05093"
      x1="159.05093"
      class="pin"
-     y2="29.557844"
-     y1="7.9615674"
+     y2="27.365765"
+     y1="5.7694883"
      id="connector90pin" />
   <g
      id="g178"
-     transform="matrix(1.4999377,0,0,1.4997419,160.10076,31.65756)">
+     transform="matrix(1.4999377,0,0,1.4997419,160.10076,29.465482)">
     <g
        id="g180">
       <g
@@ -972,18 +972,18 @@
      y="-0.349999"
      id="connector90terminal"
      x="64.4499"
-     transform="translate(65.99,50.15565)" />
+     transform="translate(65.99,67.163508)" />
   <line
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="331.71103"
      x1="323.31497"
-     y2="28.931988"
-     y1="28.931988"
+     y2="26.73991"
+     y1="26.73991"
      id="line204"
      gorn="0.1.0.0.0.2.0" />
   <g
      id="g207"
-     transform="matrix(1.1890006,0,0,1.4997419,331.72003,27.08949)">
+     transform="matrix(1.1890006,0,0,1.4997419,331.72003,24.897412)">
     <g
        id="g209">
       <g
@@ -1002,13 +1002,13 @@
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="331.71103"
      x1="323.31497"
-     y2="39.830936"
-     y1="39.830936"
+     y2="37.638855"
+     y1="37.638855"
      id="line217"
      gorn="0.1.0.0.0.2.3" />
   <g
      id="g220"
-     transform="matrix(1.1890006,0,0,1.4997419,331.72003,37.98842)">
+     transform="matrix(1.1890006,0,0,1.4997419,331.72003,35.796342)">
     <g
        id="g222">
       <g
@@ -1027,13 +1027,13 @@
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="331.71103"
      x1="323.31497"
-     y2="50.728657"
-     y1="50.728657"
+     y2="48.536572"
+     y1="48.536572"
      id="line230"
      gorn="0.1.0.0.0.2.6" />
   <g
      id="g233"
-     transform="matrix(1.1890006,0,0,1.4997419,331.72003,48.88614)">
+     transform="matrix(1.1890006,0,0,1.4997419,331.72003,46.694062)">
     <g
        id="g235">
       <g
@@ -1052,13 +1052,13 @@
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="331.71103"
      x1="323.31497"
-     y2="61.627689"
-     y1="61.627689"
+     y2="59.435604"
+     y1="59.435604"
      id="line243"
      gorn="0.1.0.0.0.2.9" />
   <g
      id="g246"
-     transform="matrix(1.1890006,0,0,1.4997419,331.72003,59.78267)">
+     transform="matrix(1.1890006,0,0,1.4997419,331.72003,57.590592)">
     <g
        id="g248">
       <g
@@ -1077,13 +1077,13 @@
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="331.71103"
      x1="323.31497"
-     y2="72.524223"
-     y1="72.524223"
+     y2="70.332146"
+     y1="70.332146"
      id="line256"
      gorn="0.1.0.0.0.2.12" />
   <g
      id="g259"
-     transform="matrix(1.1890006,0,0,1.4997419,331.72003,70.68038)">
+     transform="matrix(1.1890006,0,0,1.4997419,331.72003,68.488302)">
     <g
        id="g261">
       <g
@@ -1102,13 +1102,13 @@
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="331.71103"
      x1="323.31497"
-     y2="83.423149"
-     y1="83.423149"
+     y2="81.231071"
+     y1="81.231071"
      id="line269"
      gorn="0.1.0.0.0.2.15" />
   <g
      id="g272"
-     transform="matrix(1.1890006,0,0,1.4997419,331.72003,81.5793)">
+     transform="matrix(1.1890006,0,0,1.4997419,331.72003,79.387222)">
     <g
        id="g274">
       <g
@@ -1127,13 +1127,13 @@
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="331.71103"
      x1="323.31497"
-     y2="94.319695"
-     y1="94.319695"
+     y2="92.127602"
+     y1="92.127602"
      id="connector6pin"
      gorn="0.1.0.0.0.2.18" />
   <g
      id="g284"
-     transform="matrix(1.1890006,0,0,1.4997419,331.72003,92.47943)">
+     transform="matrix(1.1890006,0,0,1.4997419,331.72003,90.287347)">
     <g
        id="g286">
       <g
@@ -1152,13 +1152,13 @@
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="331.71103"
      x1="323.31497"
-     y2="105.21861"
-     y1="105.21861"
+     y2="103.02651"
+     y1="103.02651"
      id="connector7pin"
      gorn="0.1.0.0.0.2.21" />
   <g
      id="g296"
-     transform="matrix(1.1890006,0,0,1.4997419,331.72003,103.37715)">
+     transform="matrix(1.1890006,0,0,1.4997419,331.72003,101.18507)">
     <g
        id="g298">
       <g
@@ -1176,7 +1176,7 @@
   <g
      partID="854101350"
      id="g306"
-     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,2.8824996)">
+     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,0.69042072)">
     <g
        transform="translate(317.991,14.4495)"
        id="g308">
@@ -1220,30 +1220,30 @@
      style="fill:none;stroke:#787878;stroke-width:1.12487984;stroke-linecap:round;stroke-miterlimit:10"
      x2="396.66943"
      x1="396.66943"
-     y2="23.84885"
-     y1="13.050755"
+     y2="21.656773"
+     y1="10.858676"
      stroke-miterlimit="10"
      id="line327" />
   <g
      style="fill:none"
      id="g329"
      points="6.817,13.567,7.546,13.546,7.546,14.4,6.859,14.359"
-     transform="matrix(1.4999377,0,0,1.4997419,424.27004,-69.678326)" />
+     transform="matrix(1.4999377,0,0,1.4997419,424.27004,-52.670468)" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1.34985578;stroke-linecap:round"
      inkscape:connector-curvature="0"
      id="path331"
-     d="m 386.54501,12.726805 20.24916,0" />
+     d="m 386.54501,10.534727 20.24916,0" />
   <rect
      style="fill:#ffffff;stroke:#000000;stroke-width:1.16927516;stroke-linecap:round"
      width="64.79731"
      height="64.788849"
-     y="50.609592"
+     y="48.417507"
      x="374.90787"
      id="part_symbol" />
   <g
      id="g344"
-     transform="matrix(1.4999377,0,0,1.4997419,368.27037,91.38237)">
+     transform="matrix(1.4999377,0,0,1.4997419,368.27037,89.190287)">
     <text
        style="font-size:2px;font-family:DroidSans;fill:#787878"
        id="text346"
@@ -1251,7 +1251,7 @@
   </g>
   <g
      id="g348"
-     transform="matrix(1.8749221,0,0,1.8746774,666.33109,613.50776)">
+     transform="matrix(1.8749221,0,0,1.8746774,666.33109,611.31568)">
     <g
        id="g350">
       <path
@@ -1263,7 +1263,7 @@
   </g>
   <g
      id="g353"
-     transform="matrix(1.8749221,0,0,1.8746774,666.33109,613.50776)">
+     transform="matrix(1.8749221,0,0,1.8746774,666.33109,611.31568)">
     <g
        id="g355">
       <path
@@ -1277,8 +1277,8 @@
      style="fill:none;stroke:#787878;stroke-width:1.19999886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      x2="418.12259"
      x1="418.12259"
-     y2="115.88244"
-     y1="136.49405"
+     y2="113.69034"
+     y1="134.30194"
      id="line358" />
   <g
      style="fill:none"
@@ -1287,13 +1287,13 @@
      y="50.207"
      x="36.103"
      id="g360"
-     transform="matrix(1.4999377,0,0,1.4997419,445.02017,4.5738846)" />
+     transform="matrix(1.4999377,0,0,1.4997419,445.02017,21.581742)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.19999886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      x2="396.5235"
      x1="396.5235"
-     y2="115.39857"
-     y1="126.19669"
+     y2="113.20647"
+     y1="124.00459"
      id="line362" />
   <g
      style="fill:none"
@@ -1302,13 +1302,13 @@
      y="50.207"
      x="21.727"
      id="g364"
-     transform="matrix(1.4999377,0,0,1.4997419,445.02017,4.5738846)" />
+     transform="matrix(1.4999377,0,0,1.4997419,445.02017,21.581742)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.19999886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      x2="374.66946"
      x1="359.03424"
-     y2="93.802269"
-     y1="93.802269"
+     y2="91.610191"
+     y1="91.610191"
      id="line366" />
   <g
      style="fill:none"
@@ -1317,13 +1317,13 @@
      y="28.895"
      x="0.009"
      id="g368"
-     transform="matrix(1.4999377,0,0,1.4997419,445.02017,4.5738846)" />
+     transform="matrix(1.4999377,0,0,1.4997419,445.02017,21.581742)" />
   <line
      style="fill:none;stroke:#787878;stroke-width:1.19999886;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      x2="374.8728"
      x1="363.36215"
-     y2="72.205986"
-     y1="72.205986"
+     y2="70.013908"
+     y1="70.013908"
      id="line370" />
   <g
      style="fill:none"
@@ -1332,10 +1332,10 @@
      y="14.519"
      x="0.009"
      id="g372"
-     transform="matrix(1.4999377,0,0,1.4997419,445.02017,4.5738846)" />
+     transform="matrix(1.4999377,0,0,1.4997419,445.02017,21.581742)" />
   <g
      id="g374"
-     transform="matrix(1.4999377,0,0,1.4997419,368.27037,69.89827)">
+     transform="matrix(1.4999377,0,0,1.4997419,368.27037,67.706192)">
     <text
        style="font-size:2px;font-family:DroidSans;fill:#787878"
        id="text376"
@@ -1343,7 +1343,7 @@
   </g>
   <g
      id="g378"
-     transform="matrix(1.4999377,0,0,1.4997419,414.01997,122.565)">
+     transform="matrix(1.4999377,0,0,1.4997419,414.01997,120.37292)">
     <text
        style="font-size:2px;font-family:DroidSans;fill:#787878"
        id="text380"
@@ -1351,7 +1351,7 @@
   </g>
   <g
      id="g382"
-     transform="matrix(1.4999377,0,0,1.4997419,392.14488,122.565)">
+     transform="matrix(1.4999377,0,0,1.4997419,392.14488,120.37292)">
     <text
        style="font-size:2px;font-family:DroidSans;fill:#787878"
        id="text384"
@@ -1361,11 +1361,11 @@
      style="fill:none;stroke:#000000;stroke-width:0.67492789"
      inkscape:connector-curvature="0"
      id="path390"
-     d="m 421.55776,83.00406 c 0,7.86465 -6.38374,14.247547 -14.24941,14.247547 -7.86568,0 -14.24941,-6.382897 -14.24941,-14.247547 0,-7.86165 6.38523,-14.24754 14.24941,-14.24754 7.86417,0 14.24941,6.38439 14.24941,14.24754 z" />
+     d="m 421.55776,80.811984 c 0,7.864643 -6.38374,14.247528 -14.24941,14.247528 -7.86568,0 -14.24941,-6.382885 -14.24941,-14.247528 0,-7.861652 6.38523,-14.247542 14.24941,-14.247542 7.86417,0 14.24941,6.38439 14.24941,14.247542 z" />
   <g
      partID="854104720"
      id="g454"
-     transform="matrix(1.4999377,0,0,1.4997419,-24.32587,-24.317468)">
+     transform="matrix(1.4999377,0,0,1.4997419,-24.32587,-26.509547)">
     <g
        transform="translate(22.4399,75.6769)"
        id="g456">
@@ -1497,7 +1497,7 @@
   <g
      partID="854100500"
      id="g490"
-     transform="matrix(1.4999377,0,0,1.4997419,-36.80839,-24.317468)">
+     transform="matrix(1.4999377,0,0,1.4997419,-36.80839,-26.509547)">
     <line
        x1="190.90601"
        y1="72.000999"
@@ -1509,7 +1509,7 @@
   <g
      partID="854102750"
      id="g498"
-     transform="matrix(1.4999377,0,0,1.4997419,-64.325821,-24.317468)">
+     transform="matrix(1.4999377,0,0,1.4997419,-64.325821,-26.509547)">
     <line
        x1="282.09399"
        y1="78.7034"
@@ -1521,7 +1521,7 @@
   <g
      partID="854102820"
      id="g506"
-     transform="matrix(1.4999377,0,0,1.4997419,-70.725813,-24.317468)">
+     transform="matrix(1.4999377,0,0,1.4997419,-70.725813,-26.509547)">
     <line
        x1="289.32901"
        y1="64.5121"
@@ -1533,7 +1533,7 @@
   <g
      partID="854102540"
      id="g518"
-     transform="matrix(1.4999377,0,0,1.4906872,-57.925829,-23.405087)">
+     transform="matrix(1.4999377,0,0,1.4906872,-57.925829,-25.597166)">
     <line
        x1="274.85999"
        y1="100.408"
@@ -1545,7 +1545,7 @@
   <g
      partID="854101850"
      id="g522"
-     transform="matrix(0.97898061,0,0,2.0110538,85.226746,-75.620453)"
+     transform="matrix(0.97898061,0,0,2.0110538,85.226746,-77.812531)"
      style="stroke-width:0.57277364;stroke-miterlimit:4;stroke-dasharray:none">
     <line
        x1="317.905"
@@ -1558,7 +1558,7 @@
   <g
      partID="854102470"
      id="g530"
-     transform="matrix(1.4999377,0,0,1.4877601,-51.525837,-23.023454)">
+     transform="matrix(1.4999377,0,0,1.4877601,-51.525837,-25.215533)">
     <line
        x1="267.625"
        y1="107.643"
@@ -1570,7 +1570,7 @@
   <g
      partID="854102260"
      id="g534"
-     transform="matrix(1.058924,0,0,1.4997419,66.343892,-24.317468)"
+     transform="matrix(1.058924,0,0,1.4997419,66.343892,-26.509547)"
      style="stroke-width:0.63481754;stroke-miterlimit:4;stroke-dasharray:none">
     <line
        x1="332.45999"
@@ -1583,14 +1583,14 @@
   <line
      style="stroke:#404040;stroke-width:1.04935956;stroke-linecap:round"
      id="line552"
-     y2="28.931698"
+     y2="26.73962"
      x2="331.84335"
-     y1="29.033077"
+     y1="26.841"
      x1="396.41833" />
   <g
      partID="854106160"
      id="g554"
-     transform="matrix(1.4999377,0,0,1.4997733,-37.125863,-24.318811)"
+     transform="matrix(1.4999377,0,0,1.4997733,-37.125863,-26.51089)"
      style="stroke-width:0.5333842;stroke-miterlimit:4;stroke-dasharray:none">
     <line
        x1="310.755"
@@ -1603,7 +1603,7 @@
   <g
      partID="854103420"
      id="g562"
-     transform="matrix(1.8975592,0,0,1.1282914,-142.59903,8.253932)"
+     transform="matrix(1.8975592,0,0,1.1282914,-142.59903,6.0618542)"
      style="stroke-width:0.54674047;stroke-miterlimit:4;stroke-dasharray:none">
     <line
        x1="253.222"
@@ -1616,7 +1616,7 @@
   <g
      partID="854103280"
      id="g566"
-     transform="matrix(1.4607882,0,0,1.5315207,-32.28891,-67.054366)">
+     transform="matrix(1.4607882,0,0,1.5315207,-32.28891,-69.246444)">
     <line
        x1="123.59"
        y1="186.77299"
@@ -1628,7 +1628,7 @@
   <g
      partID="854103490"
      id="g576"
-     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,-24.317468)">
+     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,-26.509547)">
     <line
        x1="190.90601"
        y1="86.533798"
@@ -1640,7 +1640,7 @@
   <g
      partID="854103560"
      id="g580"
-     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,-24.317468)">
+     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,-26.509547)">
     <line
        x1="190.90601"
        y1="79.266602"
@@ -1652,7 +1652,7 @@
   <g
      partID="854103770"
      id="g584"
-     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,-24.317468)">
+     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,-26.509547)">
     <line
        x1="181.286"
        y1="93.172997"
@@ -1664,7 +1664,7 @@
   <g
      partID="854103700"
      id="g588"
-     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,-24.317468)">
+     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,-26.509547)">
     <line
        x1="181.286"
        y1="35.573002"
@@ -1676,7 +1676,7 @@
   <g
      partID="854103630"
      id="g592"
-     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,-24.317468)">
+     transform="matrix(1.4999377,0,0,1.4997419,-37.125855,-26.509547)">
     <line
        x1="190.90601"
        y1="35.6674"
@@ -1688,7 +1688,7 @@
   <g
      partID="854106650"
      id="g596"
-     transform="matrix(1.3143429,0,0,-1.4997419,-0.00246467,514.21611)">
+     transform="matrix(1.3143429,0,0,-1.4997419,-0.00246467,512.02403)">
     <line
        x1="1.05089"
        y1="193.903"
@@ -1700,7 +1700,7 @@
   <g
      partID="854106720"
      id="g600"
-     transform="matrix(1.6473787,0,0,1.25915,-0.50135342,-21.000965)"
+     transform="matrix(1.6473787,0,0,1.25915,-0.50135342,-23.193044)"
      style="stroke-width:0.55546165;stroke-miterlimit:4;stroke-dasharray:none">
     <line
        x1="1.3312262"
@@ -1713,7 +1713,7 @@
   <g
      partID="854106790"
      id="g604"
-     transform="matrix(1.1771559,0,0,1.4997419,0.25353239,-16.317476)">
+     transform="matrix(1.1771559,0,0,1.4997419,0.25353239,-18.509555)">
     <line
        x1="116.529"
        y1="13.8687"
@@ -1725,7 +1725,7 @@
   <g
      partID="854106580"
      id="g616"
-     transform="matrix(1.4999377,0,0,1.1221063,-48.325841,5.9325936)"
+     transform="matrix(1.4999377,0,0,1.1221063,-48.325841,3.7405152)"
      style="stroke-width:0.61664605;stroke-miterlimit:4;stroke-dasharray:none">
     <line
        x1="260.39001"
@@ -1738,7 +1738,7 @@
   <g
      partID="854107310"
      id="g624"
-     transform="matrix(1.4999377,0,0,1.4997419,-24.140981,-24.317468)"
+     transform="matrix(1.4999377,0,0,1.4997419,-24.140981,-26.509547)"
      style="stroke-width:0.53338975;stroke-miterlimit:4;stroke-dasharray:none">
     <line
        x1="22.755199"
@@ -1751,7 +1751,7 @@
   <g
      partID="854107200"
      id="g628"
-     transform="matrix(1.4999377,0,0,1.2113558,-24.32587,-7.8774984)"
+     transform="matrix(1.4999377,0,0,1.2113558,-24.32587,-10.069578)"
      style="stroke-width:0.59349501;stroke-miterlimit:4;stroke-dasharray:none">
     <line
        x1="22.755199"
@@ -1764,7 +1764,7 @@
   <g
      partID="854107670"
      id="g638"
-     transform="matrix(1.4999377,0,0,1.4997419,-24.32587,-24.317468)"
+     transform="matrix(1.4999377,0,0,1.4997419,-24.32587,-26.509547)"
      style="stroke-width:0.53338975;stroke-miterlimit:4;stroke-dasharray:none">
     <line
        x1="51.694401"
@@ -1777,7 +1777,7 @@
   <g
      partID="854107740"
      id="g642"
-     transform="matrix(1.4999377,0,0,1.4997419,-24.32587,-24.317468)"
+     transform="matrix(1.4999377,0,0,1.4997419,-24.32587,-26.509547)"
      style="stroke-width:0.53338975;stroke-miterlimit:4;stroke-dasharray:none">
     <line
        x1="51.694401"
@@ -1790,7 +1790,7 @@
   <g
      partID="854109200"
      id="g656"
-     transform="matrix(0.6783109,0,0,3.0352536,18.122678,-156.30331)"
+     transform="matrix(0.6783109,0,0,3.0352536,18.122678,-158.49539)"
      style="stroke:#464646;stroke-width:0.39027947;stroke-miterlimit:4.21428585;stroke-dasharray:none;stroke-opacity:1">
     <line
        x1="65.989998"
@@ -1803,7 +1803,7 @@
   <g
      partID="854109420"
      id="g666"
-     transform="matrix(1.372421,0,0,1.6064852,-21.36046,-81.048636)">
+     transform="matrix(1.372421,0,0,1.6064852,-21.36046,-83.240714)">
     <line
        x1="123.59"
        y1="186.77299"
@@ -1818,677 +1818,689 @@
      width="64.437965"
      height="86.363022"
      x="259.01437"
-     y="24.396259" />
+     y="22.204182" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="202.23392"
-     y="69.91906"
+     y="86.926918"
      id="text4850"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        x="202.23392"
-       y="69.91906"
+       y="86.926918"
        id="tspan4854" /></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:14.39844799px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="6.766294"
-     y="20.25717"
+     y="18.064951"
      id="text5272"
      sodipodi:linespacing="125%"
      transform="scale(1.0000653,0.99993471)"><tspan
        sodipodi:role="line"
        id="tspan5274"
        x="6.766294"
-       y="20.25717"
+       y="18.064951"
        style="font-size:9.59999084px">piezo-electric sensor</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="20.559631"
-     y="75.518532"
+     y="73.326454"
      id="text5276"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5278"
        x="20.559631"
-       y="75.518532">R1</tspan><tspan
+       y="73.326454">R1</tspan><tspan
        sodipodi:role="line"
        x="20.559631"
-       y="87.518524"
+       y="85.326439"
        id="tspan5280">1MΩ</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="111.50445"
-     y="110.2525"
+     y="108.06042"
      id="text5282"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        x="111.50445"
-       y="110.2525"
+       y="108.06042"
        id="tspan5286">Arduino UNO</tspan><tspan
        sodipodi:role="line"
        x="111.50445"
-       y="122.25249"
+       y="120.06042"
        id="tspan5290">(Rev3)</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="187.82773"
-     y="107.96778"
+     y="105.77572"
      id="text5296"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5298"
        x="187.82773"
-       y="107.96778">D5</tspan></text>
+       y="105.77572">D5</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="188.05626"
-     y="118.93641"
+     y="116.74431"
      id="text5300"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5302"
        x="188.05626"
-       y="118.93641">D6</tspan></text>
+       y="116.74431">D6</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="85.583145"
-     y="108.37371"
+     y="106.18165"
      id="text5304"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5306"
        x="85.583145"
-       y="108.37371">A0</tspan></text>
+       y="106.18165">A0</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="-43.427822"
+     x="-41.235741"
      y="141.05144"
      id="text5308"
      sodipodi:linespacing="125%"
      transform="matrix(0,-1,1,0,0,0)"><tspan
        sodipodi:role="line"
        id="tspan5310"
-       x="-43.427822"
+       x="-41.235741"
        y="141.05144">5V</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="-195.41043"
+     x="-193.21832"
      y="151.28404"
      id="text5312"
      sodipodi:linespacing="125%"
      transform="matrix(0,-1,1,0,0,0)"><tspan
        sodipodi:role="line"
        id="tspan5314"
-       x="-195.41043"
+       x="-193.21832"
        y="151.28404">GND</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="388.50223"
-     y="10.172268"
+     y="7.9801898"
      id="text5316"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5318"
        x="388.50223"
-       y="10.172268">12V</tspan></text>
+       y="7.9801898">12V</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="402.17923"
-     y="60.209019"
+     y="58.016933"
      id="text5338"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5340"
        x="402.17923"
-       y="60.209019">M1</tspan></text>
+       y="58.016933">M1</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="251.94003"
-     y="19.978519"
+     y="17.786442"
      id="text5431"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        x="251.94003"
-       y="19.978519"
+       y="17.786442"
        id="tspan5435">stepper motor driver</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="298.17731"
-     y="31.770292"
+     y="29.578211"
      id="text5437"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5439"
        x="298.17731"
-       y="31.770292"
+       y="29.578211"
        style="font-size:7.99999237px">VMOT</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="304.42429"
-     y="42.320538"
+     y="40.128456"
      id="text5437-5"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5439-0"
        x="304.42429"
-       y="42.320538"
+       y="40.128456"
        style="font-size:7.99999237px">GND</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="312.47168"
-     y="53.162373"
+     y="50.970287"
      id="text5437-5-4"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5439-0-7"
        x="312.47168"
-       y="53.162373"
+       y="50.970287"
        style="font-size:7.99999237px">2B</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="312.54736"
-     y="64.527992"
+     y="62.335915"
      id="text5437-5-4-9"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5439-0-7-2"
        x="312.54736"
-       y="64.527992"
+       y="62.335915"
        style="font-size:7.99999237px">2A</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="312.70892"
-     y="75.354042"
+     y="73.161964"
      id="text5437-5-4-7"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5439-0-7-8"
        x="312.70892"
-       y="75.354042"
+       y="73.161964"
        style="font-size:7.99999237px">1A</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="312.54736"
-     y="85.856941"
+     y="83.664864"
      id="text5437-5-4-3"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5439-0-7-3"
        x="312.54736"
-       y="85.856941"
+       y="83.664864"
        style="font-size:7.99999237px">1B</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="304.4682"
-     y="97.006187"
+     y="94.814102"
      id="text5437-5-4-71"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5439-0-7-0"
        x="304.4682"
-       y="97.006187"
+       y="94.814102"
        style="font-size:7.99999237px">VDD</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="304.30661"
-     y="107.3475"
+     y="105.15542"
      id="text5437-5-4-1"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5439-0-7-87"
        x="304.30661"
-       y="107.3475"
+       y="105.15542"
        style="font-size:7.99999237px">GND</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="260.85159"
-     y="32.416637"
+     y="30.224558"
      id="text5820"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5822"
        x="260.85159"
-       y="32.416637"
+       y="30.224558"
        style="font-size:7.99999237px">ENA</tspan></text>
   <line
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="258.10156"
      x1="249.70552"
-     y2="29.175344"
-     y1="29.175344"
+     y2="26.983265"
+     y1="26.983265"
      id="line204-5"
      gorn="0.1.0.0.0.2.0" />
   <line
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="258.10156"
      x1="249.70552"
-     y2="40.074238"
-     y1="40.074238"
+     y2="37.882156"
+     y1="37.882156"
      id="line217-4"
      gorn="0.1.0.0.0.2.3" />
   <line
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="258.10156"
      x1="249.70552"
-     y2="50.971973"
-     y1="50.971973"
+     y2="48.779888"
+     y1="48.779888"
      id="line230-0"
      gorn="0.1.0.0.0.2.6" />
   <line
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="258.10156"
      x1="249.70552"
-     y2="61.871021"
-     y1="61.871021"
+     y2="59.678936"
+     y1="59.678936"
      id="line243-4"
      gorn="0.1.0.0.0.2.9" />
   <line
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="258.10156"
      x1="249.70552"
-     y2="72.76757"
-     y1="72.76757"
+     y2="70.575493"
+     y1="70.575493"
      id="line256-4"
      gorn="0.1.0.0.0.2.12" />
   <line
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="258.10156"
      x1="249.70552"
-     y2="83.666496"
-     y1="83.666496"
+     y2="81.474411"
+     y1="81.474411"
      id="line269-3"
      gorn="0.1.0.0.0.2.15" />
   <line
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="258.10156"
      x1="249.70552"
-     y2="94.563011"
-     y1="94.563011"
+     y2="92.370941"
+     y1="92.370941"
      id="connector6pin-9"
      gorn="0.1.0.0.0.2.18" />
   <line
      style="fill:none;stroke:#000000;stroke-width:0.83991027;stroke-linecap:round;stroke-linejoin:round"
      x2="258.10156"
      x1="249.70552"
-     y2="105.46192"
-     y1="105.46192"
+     y2="103.26985"
+     y1="103.26985"
      id="connector7pin-3"
      gorn="0.1.0.0.0.2.21" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="260.66907"
-     y="42.515469"
+     y="40.323387"
      id="text5820-2"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5822-1"
        x="260.66907"
-       y="42.515469"
+       y="40.323387"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.24899483px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#8c8c8c;fill-opacity:1">MS1</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="260.83066"
-     y="75.640099"
+     y="73.448021"
      id="text5820-0"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5822-9"
        x="260.83066"
-       y="75.640099"
+       y="73.448021"
        style="font-size:7.99999237px">RESET</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="260.83066"
-     y="86.466179"
+     y="84.274101"
      id="text5820-7"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5822-7"
        x="260.83066"
-       y="86.466179"
+       y="84.274101"
        style="font-size:7.99999237px">SLEEP</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="260.99222"
-     y="97.292259"
+     y="95.100182"
      id="text5820-96"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5822-8"
        x="260.99222"
-       y="97.292259"
+       y="95.100182"
        style="font-size:7.99999237px">STEP</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="260.99222"
-     y="108.11831"
+     y="105.92624"
      id="text5820-51"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5822-69"
        x="260.99222"
-       y="108.11831"
+       y="105.92624"
        style="font-size:7.99999237px">DIR</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="260.56708"
-     y="53.070972"
+     y="50.878887"
      id="text5820-2-4"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5822-1-8"
        x="260.56708"
-       y="53.070972"
+       y="50.878887"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.24899483px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#8c8c8c;fill-opacity:1">MS2</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:9.59999084px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';letter-spacing:0px;word-spacing:0px;fill:#8c8c8c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="260.56708"
-     y="63.89716"
+     y="61.705078"
      id="text5820-2-2"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan5822-1-6"
        x="260.56708"
-       y="63.89716"
+       y="61.705078"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.24899483px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#8c8c8c;fill-opacity:1">MS3</tspan></text>
   <path
      style="fill:none;fill-rule:evenodd;stroke:#464646;stroke-width:0.79999924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 331.64413,105.17352 6.07669,0"
+     d="m 331.64413,102.98144 6.07669,0"
      id="path5975"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#464646;stroke-width:0.79999924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 331.75461,94.23547 10.49611,0"
+     d="m 331.75461,92.043382 10.49611,0"
      id="path5977"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#464646;stroke-width:0.79999924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 331.75461,83.40791 18.1196,-0.11048"
+     d="m 331.75461,81.215834 18.1196,-0.11048"
      id="path5979"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#464646;stroke-width:0.79999924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 331.53364,72.46986 22.64949,0.11049"
+     d="m 331.53364,70.277782 22.64949,0.11049"
      id="path5981"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#464646;stroke-width:0.79999924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 331.54029,61.52577 27.34373,0"
+     d="m 331.54029,59.333692 27.34373,0"
      id="path5983"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#464646;stroke-width:0.79999924px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 331.54029,50.6664 31.87497,0.0782"
+     d="m 331.54029,48.474322 31.87497,0.0782"
      id="path5985"
      inkscape:connector-curvature="0" />
   <ellipse
      style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.2175132;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path5987"
      cx="26.299976"
-     cy="36.710217"
+     cy="34.518135"
      rx="13.791229"
      ry="13.791228" />
   <ellipse
      style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.39999959;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="path5987-9"
      cx="26.434734"
-     cy="36.682468"
+     cy="34.490387"
      rx="8.8110638"
      ry="8.8110628" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#464646;stroke-width:0.79999918px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 31.376657,61.39598 31.115184,41.78557"
+     d="M 31.376657,59.203902 31.115184,39.593492"
      id="path6004"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#464646;stroke-width:0.79999918px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 20.841188,61.75518 20.75403,46.32833"
+     d="M 20.841188,59.563102 20.75403,44.136252"
      id="path6006"
      inkscape:connector-curvature="0" />
   <ellipse
      cx="9.670598"
-     cy="93.845436"
+     cy="91.653358"
      id="circle670-9"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="53.181076"
-     cy="93.722191"
+     cy="91.530128"
      id="circle670-6"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="62.753311"
-     cy="104.53889"
+     cy="102.3468"
      id="circle670-6-6"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="20.917772"
-     cy="46.666393"
+     cy="44.474312"
      id="circle670-6-65"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="31.028027"
-     cy="41.26263"
+     cy="39.070549"
      id="circle670-6-8"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="137.53433"
-     cy="7.9685102"
+     cy="5.7764311"
      id="circle670-6-8-0"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="223.99446"
-     cy="93.905693"
+     cy="91.713608"
      id="circle670-6-8-2"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="223.99446"
-     cy="104.53889"
+     cy="102.3468"
      id="circle670-6-8-9"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="249.44441"
-     cy="94.428627"
+     cy="92.236542"
      id="circle670-6-8-6"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="249.27011"
-     cy="105.23614"
+     cy="103.04405"
      id="circle670-6-8-3"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="249.09579"
-     cy="29.060596"
+     cy="26.868519"
      id="circle670-6-8-25"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="249.53119"
-     cy="72.455009"
+     cy="70.262932"
      id="circle670-6-8-39"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="249.53119"
-     cy="83.548317"
+     cy="81.356247"
      id="circle670-6-8-8"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="223.83861"
-     cy="115.59571"
+     cy="113.4036"
      id="circle670-6-8-86"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="332.06015"
-     cy="28.82127"
+     cy="26.629192"
      id="circle670-6-8-5"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="332.06015"
-     cy="40.161106"
+     cy="37.969025"
      id="circle670-6-8-82"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="332.06015"
-     cy="51.007923"
+     cy="48.815838"
      id="circle670-6-8-94"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="332.06015"
-     cy="61.608204"
+     cy="59.416119"
      id="circle670-6-8-33"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="332.55319"
-     cy="72.455009"
+     cy="70.262932"
      id="circle670-6-8-01"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="332.06015"
-     cy="83.301811"
+     cy="81.109734"
      id="circle670-6-8-83"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="332.06015"
-     cy="94.395134"
+     cy="92.203072"
      id="circle670-6-8-59"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="332.06015"
-     cy="105.48846"
+     cy="103.29638"
      id="circle670-6-8-03"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="363.24472"
-     cy="72.085228"
+     cy="69.89315"
      id="circle670-6-8-99"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="358.80737"
-     cy="93.655586"
+     cy="91.463509"
      id="circle670-6-8-96"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="396.40143"
-     cy="125.94946"
+     cy="123.75736"
      id="circle670-6-8-02"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="418.09503"
-     cy="137.04279"
+     cy="134.85068"
      id="circle670-6-8-53"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="396.63828"
-     cy="23.786968"
+     cy="21.594891"
      id="circle670-6-8-22"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="429.10129"
-     cy="23.806301"
+     cy="21.614223"
      id="circle670-6-8-024"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <ellipse
      cx="148.1575"
-     cy="218.81799"
+     cy="216.62589"
      id="circle670-6-8-35"
      style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0"
      rx="1.5999985"
      ry="1.5999984" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#464646;stroke-width:0.79999918px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 396.5863,24.199054 0,4.807106"
+     d="m 396.5863,22.006976 0,4.807106"
      id="path4520"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#464646;stroke-width:0.79999918px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 429.07578,24.179782 -0.0872,15.949798"
+     d="m 429.07578,21.987704 -0.0872,15.949798"
      id="path4522"
      inkscape:connector-curvature="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#464646;stroke-width:0.79999918px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 137.43395,7.497441 0,-2.8349604"
+     d="m 137.43395,5.3053632 0,-2.834961"
      id="path4524"
      inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99998856px;line-height:125%;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     x="251.33389"
+     y="239.43289"
+     id="text4223"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4225"
+       x="251.33389"
+       y="239.43289"
+       style="font-size:11.99998856px">Licensed under CERN OHL v.1.2</tspan></text>
 </svg>
