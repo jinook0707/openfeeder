@@ -18,8 +18,8 @@ After building the feeder and uploading Arduino code, you can test the feeder in
 
 ---
 
-Copyright CogBio Department in University of Vienna 2016.
-In this repository, the software is licesed under the GNU GPL Version 3 and 
-the hardware is licensed under the CERN OHL v. 1.2 (http://ohwr.org/cernohl).
-This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Copyright CogBio Department in University of Vienna 2016.<br>
+In this repository, the software is licesed under the GNU GPL Version 3 and <br>
+the hardware is licensed under the CERN OHL v. 1.2 (http://ohwr.org/cernohl).<br>
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.<br>
 Please see LICENSE and LICENSE_HARDWARE.pdf for detailed information.
