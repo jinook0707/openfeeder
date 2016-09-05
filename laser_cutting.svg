@@ -37,10 +37,10 @@
      showgrid="false"
      units="mm"
      inkscape:zoom="0.33846756"
-     inkscape:cx="1230.3238"
-     inkscape:cy="596.54647"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
+     inkscape:cx="1274.6412"
+     inkscape:cy="123.82761"
+     inkscape:window-x="-1"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="Layer_1" /><style
      type="text/css"
@@ -378,10 +378,10 @@
      id="path157"
      d="m 800.10776,2280.4454 0,708.2922 708.16724,0 0,-708.2922 -708.16724,0 z"
      class="st12" /><path
-     style="fill:none;stroke:#000000;stroke-width:1.23797286;stroke-miterlimit:10"
+     style="fill:none;stroke:#000000;stroke-width:1.17026591;stroke-miterlimit:10"
      inkscape:connector-curvature="0"
      id="path159"
-     d="m 1153.696,2893.8046 c -36.3538,0 -53.9125,-39.2896 -53.9125,-78.9512 0,-39.6614 17.5587,-66.6809 53.9125,-66.6809 36.3537,0 53.9125,27.0195 53.9125,66.6809 0,39.6616 -17.5588,78.9512 -53.9125,78.9512 z"
+     d="m 1152.3141,2893.8385 c -35.4448,0 -52.5645,-36.0099 -52.5645,-72.3607 0,-36.3508 17.1197,-61.1148 52.5645,-61.1148 35.4447,0 52.5645,24.764 52.5645,61.1148 0,36.3508 -17.1198,72.3607 -52.5645,72.3607 z"
      class="st13" /><text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
