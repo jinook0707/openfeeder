@@ -3,7 +3,7 @@
 const int MPIN1 = 4; // pin for SM42BYG011 stepper motor
 const int MPIN2 = 5; // pin for SM42BYG011 stepper motor
 const int MPIN3 = 6; // pin for SM42BYG011 stepper motor
-const int PPIN1 = A0; // pin for piezo sensor (for detecting food drop on food dispense ramp)
+const int PPIN_F = A0; // pin for piezo sensor to detect food drop on food dispense ramp
 
 String s_msg;
 int fd_state = 0; // state of food dispense detector sensor
@@ -28,26 +28,32 @@ unsigned int m_spd = 240; // motor rotation speed when feeding
 unsigned int m_accel = 480; // motor acceleration speed when feeding
 */
 
+/*
 // dry food for cat (10-12mm diameter)
-const int fd_th = 50; // threshold of food dispense detector sensor
- to account it as a food fall
+const int fd_th = 50; // threshold of food dispense detector sensor to account it as a food fall
 const int add_dist = 0; // distance to rotate after release of food; this is necessary only for assortment of seeds for pigeon (about 5)
 unsigned int m_dist = 150; // motor rotation distance when feeding
 unsigned int m_spd = 120; // motor rotation speed when feeding
 unsigned int m_accel = 480; // motor acceleration speed when feeding
+*/
 
+// dry food for budgie (1-2mm diameter)
+const int fd_th = 16; // threshold of food dispense detector sensor to account it as a food fall
+const int add_dist = 0; // distance to rotate after release of food; this is necessary only for assortment of seeds for pigeon (about 5)
+unsigned int m_dist = 50; // motor rotation distance when feeding
+unsigned int m_spd = 60; // motor rotation speed when feeding
+unsigned int m_accel = 480; // motor acceleration speed when feeding
 
 void setup() {
-  Serial.begin(9600);
-  pinMode(MPIN3, OUTPUT); // Enable
+  pinMode(MPIN3, OUTPUT); // Enable motor driver
   digitalWrite(MPIN3,HIGH);
-  pinMode(PPIN1, INPUT); // piezo sensor
-  unsigned long fd_state_ = 0;
+  pinMode(PPIN_F, INPUT); // piezo sensor
+  Serial.begin(9600);
 }
 
-void loop() {
-  //Serial.println(int(analogRead(PPIN1)));
+void loop() {  
   if (Serial.available()>0) {
+    // read message
     s_msg = "";
     while (Serial.available()) {
       delay(10);
@@ -55,7 +61,7 @@ void loop() {
       s_msg += tmp;
     }
     s_msg.replace(" ",""); // get rid of a blank
-    Serial.println(s_msg);
+    //Serial.println(s_msg);
     if (s_msg=="feed") feed();
     Serial.flush();
   }
@@ -67,7 +73,7 @@ void feed() {
   for (int i=0; i<num_feed; i++) { // feed once (or multiple times)
     for (int j=0; j<num_rot; j++) { // number of rotations to try to make one disposal
       bool ret = run_motor(m_dist,m_spd,m_accel,false);
-      Serial.println("motor rotated");
+      //Serial.println("motor rotated");
       if (ret == true) { // piezo was hit (successful food dispense)
         num_feed -= 1;
         break;
@@ -77,9 +83,9 @@ void feed() {
   }
   if (num_feed > 0) { // disk is probably stuck
     // move disk back and forth
-    bool ret = run_motor(-50,240,720,true); // rotate disk backward
+    bool ret = run_motor(-m_dist,240,720,true); // rotate disk backward
     delay(100);
-    ret = run_motor(50,240,720,true); // rotate disk forward further than backward distance
+    ret = run_motor(m_dist*2,240,720,true); // rotate disk forward further than backward distance
     delay(100);
   }
 }
@@ -119,7 +125,8 @@ bool run_motor(int dest, int spd, int accel, bool is_stuck) {
 bool chk_fd_sensor() {
   for (int i=0;i<3;i++) { // read sensor several times
     // check food dispense (hitting piezo sensor)
-    fd_state = int(analogRead(PPIN1));
+    analogRead(PPIN_F);
+    fd_state = int(analogRead(PPIN_F));
     if (fd_state > 2) Serial.println(fd_state);
     if (fd_state > fd_th) {
       Serial.println(fd_state);
@@ -129,4 +136,3 @@ bool chk_fd_sensor() {
   }
   return false;
 }
-
