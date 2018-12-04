@@ -18,6 +18,12 @@ After building the feeder and uploading Arduino code, you can test the feeder in
 
 ---
 
+A geared DC motor has been also used to increase torque and reduce motor noise.
+
+Arduino code in 'withDCMotor' folder has been used to run the feeder with a geared DC motor + L298N motor driver, instead of a stepper motor, described in the original paper.
+
+---
+
 Copyright CogBio Department in University of Vienna 2016.<br>
 In this repository, the software is licesed under the GNU GPL Version 3 and <br>
 the hardware is licensed under the CERN OHL v. 1.2 (http://ohwr.org/cernohl).<br>
